@@ -1,10 +1,6 @@
 # Linear-Structure-and-Dynamic-Programming
 Data Structure and Algorithm (python implementation)
 
-### REFERENCE
-All contents and codes were referred to KOOC (KAIST Open Online Course) "Linear Structure and Dynamic Programming" Professor.Mun
-* https://www.edwith.org/datastructure-2019s/joinLectures/21992
-
 ## 0. linkedList stack queue
 * Abstract Data Types
 * Implementation of Node class
@@ -24,3 +20,9 @@ All contents and codes were referred to KOOC (KAIST Open Online Course) "Linear 
 * Implementation of tree node
 * Implementation of BST
 * Tree traversing
+
+
+
+### REFERENCE
+All contents and codes were referred to KOOC (KAIST Open Online Course) "Linear Structure and Dynamic Programming" Professor.Mun
+* https://www.edwith.org/datastructure-2019s/joinLectures/21992
