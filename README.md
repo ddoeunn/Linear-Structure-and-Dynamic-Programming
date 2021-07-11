@@ -1,5 +1,6 @@
 # Linear-Structure-and-Dynamic-Programming
 Data Structure and Algorithm (python implementation)
+KOOC (KAIST Open Online Course)의 "Linear Structure and Dynamic Programming" 강의 내용과 파이썬 코드를 정리한 레파지토리입니다.
 
 ## 0. linkedList stack queue
 * Abstract Data Types
